@@ -1,0 +1,23 @@
+.info {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.form-label {
+  font-weight: 700;
+  font-size: 25px;
+}
+
+.uploadBtn {
+  float: right;
+}
+
+button {
+  color: white;
+  padding: 1rem;
+  background-color: #f76300;
+  font-size: 22px !important;
+  font-weight: 600;
+  border: 1px solid #f76300;
+  border-radius: 28px !important;
+}

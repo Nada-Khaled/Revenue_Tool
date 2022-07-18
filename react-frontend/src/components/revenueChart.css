@@ -1,0 +1,31 @@
+.Dropdown-root {
+  height: 3rem;
+}
+.navbar{
+
+  padding: 2rem;
+  border-bottom: 1px solid #e2e2e2;
+}
+.navbar-brand{
+
+  font-size: 1.7rem;
+  margin-right: 5rem;
+  color:#f76300;
+  text-decoration: none;
+  align-items: center;
+  padding: 20px;
+}
+
+.navbar-brand:hover{
+  
+  border-radius: 25px;
+  color:#f76300;
+  background-color: #e2e2e2;
+}
+
+/* .nav-bar > a:active{
+  
+  border-radius: 25px!important;
+  background-color: #e2e2e2!important;
+  text-decoration: underline;
+} */
