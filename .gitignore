@@ -1,0 +1,17 @@
+*.xlsx
+*.PNG
+*.jpg
+*.png
+*.jpeg
+*.docx
+*.csv
+newColumnsToBeAddedToFile_of_interest.txt
+PortInPackageJsonReact.txt
+installedPackages.txt
+node_modules/
+trackRevenueEnv/
+alchemyDB/
+Network_Pivot_Tables/
+Update_Revenue_Table/all_files/
+react-frontend/charts_excel_files/
+~*
